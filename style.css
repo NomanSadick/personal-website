@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h3{
+    font-size: 0px;
+}
+h2{
+    font-size: 30px;
+    color: #e84393;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:#e84393 ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 180px;
+    
+}
+p{
+    margin-bottom: 40px;;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin: 20px;
+    padding-top: 50px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+.top-content{
+    text-align: center;
+    font-size: 30px;
+}
+.content{
+    margin-left: 10%;
+}
+.main-content{
+    max-width: 30%;
+    float: left;
+    padding: 20px
+}
+.main-content img{
+    height: 220px;
+    width: 288px;
+}
+}
