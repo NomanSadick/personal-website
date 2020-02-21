@@ -38,26 +38,20 @@ p{
 .top-banner{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
+    
     
 }
 .biography{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
+    
     margin: 20px;
     padding-top: 50px;
 }
 .latest-work{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
+    
     margin-top: 55px;
     margin-bottom: 50px;
 }
@@ -77,4 +71,41 @@ p{
     height: 220px;
     width: 288px;
 }
+.clint{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.clint-div{
+    text-align: center;
+}
+.clint-information{
+    background-color: #e84393;
+    width: 400px;
+    border-radius: 5px;
+    height: 120px;
+    margin: 0 auto;
+    padding: 1px 10px 30px 10px;
+}
+
+.messege{
+    font-size: 9px;
+    padding-top: 14px;
+    color: #fff;
+}
+.clint-information h2{
+    color: #fff;
+    font-size: 16px;
+}
+.founder{
+    font-size: 10px;
+}
+.discription{
+    font-size: 15px;
+}
+footer p{
+    text-align: center;
+    font-size: 8px;
+    
 }
